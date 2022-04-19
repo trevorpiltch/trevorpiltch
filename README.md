@@ -2,7 +2,7 @@
 Hi I'm Trevor! I'm a rising senior at Phillips Exeter Academy and highly interested in computer science and programming. I finished all of the computer science classes at school so now I'm just playing around with different projects. If you need to reach me, please email at tpiltch@exeter.edu.
 
 ## Favorites ⭐
-Movie 📺: The breakfast club \n
+Movie 📺: The breakfast club <br />
 Food 🌯: Burritos
 Qoute 💭: "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." - Ferris Bueller
 
