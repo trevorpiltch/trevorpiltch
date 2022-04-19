@@ -1,5 +1,5 @@
 # About Me 
-Hi I'm Trevor! I'm a rising senior at Phillips Exeter Academy and highly interested in computer science and programming. I finished all of the computer science classes at school so now I'm just playing around with different projects. If you need to reach me, please email at tpiltch@exeter.edu.
+Hi I'm Trevor! I'm a rising senior at Phillips Exeter Academy and highly interested in computer science and programming. I finished all of the computer science classes at school so now I'm just playing around with different projects. 
 
 ## Favorites ⭐
 Movie 📺: The breakfast club <br />
@@ -9,8 +9,8 @@ Qoute 💭: "Life moves pretty fast. If you don't stop and look around once in a
 ## Contact ☎
 Email: tpiltch@exeter.edu
 
-# Projects
-Algorithms - a collection of dope algorithms I wrote in code. Not that I discovered these algorithms as I'm not an ancient Babylonian. I just coded them.
+# My Projects
+Algorithms - A collection of dope algorithms I wrote. I didn't discover these algorithms, as I'm not an ancient Babylonian. I just coded them.
 <!---
 trevorpiltch/trevorpiltch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
