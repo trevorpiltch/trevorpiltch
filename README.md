@@ -1,5 +1,5 @@
-# About Me 
-Hi I'm Trevor! I'm a rising senior at Phillips Exeter Academy and highly interested in computer science and programming. I finished all of the computer science classes at school so now I'm just playing around with different projects. 
+#🤙👨‍💻About Me 
+I am a student at Phillips Exeter Academy, 
 
 ## Favorites ⭐
 Movie 📺: The breakfast club <br />
