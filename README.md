@@ -1,9 +1,10 @@
-# About Me 🤙👨‍💻
+# About Me 👨‍💻
 - I am a student at Phillips Exeter Academy 
-- I mostly program in Swift but I dabble in other languages.
-  - Dabbled languages include: Java, Python, Kotlin
 - I play soccer 
 - I love to skateboard and surf 
+- I'm mainly an App Dev with Swift (and a little Kotlin)
+- I also program in Python, Ruby, Java, and JavaScript
+
 
 ## Favorites ⭐
 Movie: The breakfast club <br />
