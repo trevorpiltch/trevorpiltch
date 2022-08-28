@@ -2,8 +2,14 @@
 - I am a student at Phillips Exeter Academy 
 - I play soccer 
 - I love to skateboard and surf 
-- I'm mainly an App Dev with Swift (and a little Kotlin)
-- I also program in Python, Ruby, Java, and JavaScript
+
+## What I do 💻
+- Build cool apps in Swift 
+- Build Python and Ruby on Rails web apps
+- Build Java algorithms
+
+## Currently Learning 🧠
+- The Rust Language 🦀
 
 
 ## Favorites ⭐
