@@ -10,7 +10,7 @@
 
 ## Current
 **Language:** Rust 🦀 <br />
-**Framework:** Flux 🤖 <br />
+**Framework:** Embedded rust ⚙️ <br />
 **Project:** Wheels 🛹 <br />
 
 
