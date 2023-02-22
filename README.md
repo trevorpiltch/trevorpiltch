@@ -9,7 +9,7 @@
 - Implement algorithms with Java and Python
 
 ## Current
-**Language:** Haskell <br />
+**Language:** Haskell, Julia <br />
 **Framework:** Embedded rust <br />
 **Project:** Wheels <br />
 
