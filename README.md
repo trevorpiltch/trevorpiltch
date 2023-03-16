@@ -1,15 +1,26 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64988375/225766725-3e811ba3-3859-4f08-bc42-c9d789773ca0.png" width=35% height=35%>
+</p>
+                                                                                                                
 
 I'm a senior at Phillips Exeter Academy in New Hampshire. I mainly write iOS & MacOS apps, but I've also worked with classical and quantum algorithms. I build websites, web apps, and bare metal software. Outside of computers, I love to skateboard, surf, and play soccer. I am a very organized person and I think the answer to everything is Don't Panic (😉).
 
-### 🧠 Learning 
-**Language:** Haskell <br />
-**Framework:** Embedded rust <br />
-**Project:** Wheels<br />
+### 🌐 Find Me on the Interweb
+[LinkedIn](https://www.linkedin.com/in/trevor-piltch-41276a26a/)<br />
+[Instagram](https://www.instagram.com/keeper_tp/)<br />
+[GitHub](https://github.com/trevorpiltch)<br />
+
 
 ### 🖥 Published Work
 [Wheels: Skateboard Buddy](https://apps.apple.com/app/id1667530731) <br />
 [Grover's Quantum Search Algorithm](https://github.com/trevorpiltch/Grovers-Algorithm) <br />
 [Rust template for Microbit v2](https://github.com/trevorpiltch/embedded_template) <br />
+
+
+### 🧠 Learning 
+**Language:** Haskell <br />
+**Framework:** Embedded rust <br />
+**Project:** Wheels<br />
 
 ### 🌟 Favorites 
 **Movie:** The Breakfast Club <br />
