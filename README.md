@@ -3,7 +3,7 @@
 </p>
                                                                                                                 
 
-I'm a senior at Phillips Exeter Academy in New Hampshire. I mainly write iOS & MacOS apps, but I've also worked with classical and quantum algorithms. I build websites, web apps, and bare metal software. Outside of computers, I love to skateboard, surf, and play soccer. I am a very organized person and I think the answer to everything is Don't Panic (😉).
+I'm a freshman at McGill University in Montreal. I'm studying Software Engineering with a minor in Aerospace Engineering. I mainly write iOS & MacOS apps, but I've also worked with classical and quantum algorithms. I build websites, web apps, and bare metal software. Outside of computers, I love to skateboard, surf, and play soccer. I am a very organized person and I think the answer to everything is Don't Panic (😉).
 
 ### 🌐 Find Me on the Interweb
 [LinkedIn](https://www.linkedin.com/in/trevor-piltch-41276a26a/)<br />
