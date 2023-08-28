@@ -15,12 +15,12 @@ I'm a freshman at McGill University in Montreal. I'm studying Software Engineeri
 [Wheels: Skateboard Buddy](https://apps.apple.com/app/id1667530731) <br />
 [Grover's Quantum Search Algorithm](https://github.com/trevorpiltch/Grovers-Algorithm) <br />
 [Rust template for Microbit v2](https://github.com/trevorpiltch/embedded_template) <br />
+[Storable, a simpler CoreData](https://github.com/trevorpiltch/Storable)<br/>
 
 
 ### 🧠 Learning 
-**Language:** Haskell <br />
-**Framework:** Embedded rust <br />
-**Project:** Wheels<br />
+**Language:** Elixir + Ruby <br />
+**Framework:** Phoenix <br />
 
 ### 🌟 Favorites 
 **Movie:** The Breakfast Club <br />
