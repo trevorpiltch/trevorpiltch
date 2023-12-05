@@ -14,7 +14,6 @@ I'm a freshman at McGill University in Montreal studying Software Engineering. M
 [Grover's Quantum Search Algorithm](https://github.com/trevorpiltch/Grovers-Algorithm) <br />
 [Rust template for Microbit v2](https://github.com/trevorpiltch/embedded_template) <br />
 [Storable, a simpler CoreData](https://github.com/trevorpiltch/Storable)<br/>
-[Hecto: A Rust based text editor](https://github.com/trevorpiltch/Hecto)<br />
 
 
 ### 🧠 Learning 
