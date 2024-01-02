@@ -7,7 +7,6 @@ I'm a freshman at McGill University in Montreal studying Software Engineering. M
 ### 🌐 Find Me on the Interweb
 [Website](https://trevorpiltch.github.io/) <br />
 [LinkedIn](https://www.linkedin.com/in/trevor-piltch-41276a26a/)<br />
-[Instagram](https://www.instagram.com/keeper_tp/)<br />
 
 ### 🖥 Published Work
 [Wheels: Skateboard Buddy](https://apps.apple.com/app/id1667530731) <br />
