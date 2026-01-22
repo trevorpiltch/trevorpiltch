@@ -18,6 +18,6 @@ Flight Computer Software Lead - [McGill Rocket Team](https://mcgillrocketteam.co
 [PomoBit: Pomodoro timer for the Microbit:V2](https://github.com/trevorpiltch/Pomo-Bit) <br/>
 [Rust template for Microbit v2](https://github.com/trevorpiltch/embedded_template) <br />
 
-##### School
+#### School
 C-compiler - Java based compiler for the c language from [COMP520: Compiler Design](https://coursecatalogue.mcgill.ca/courses/comp-520/) <br />
 [CoolSupplies](https://github.com/F2024-ECSE223/ecse223-group-project-p13) (⭐️ Best project in [ECSE223: Model Based programming](https://coursecatalogue.mcgill.ca/courses/ecse-223/)) <br />
