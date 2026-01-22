@@ -9,17 +9,15 @@ WinterKids: [iOS](https://apps.apple.com/us/app/winterkids/id1445770020), [Andro
 Always Art: [iOS](https://apps.apple.com/us/app/always-art/id6449148969), [Android](https://play.google.com/store/apps/details?id=com.alwaysart.android&hl=en-US&pli=1) <br />
 Wheels: [iOS](https://apps.apple.com/app/id1667530731) (⭐️ Featured on 9to5Mac) <br />
 
-#### Websites
-[Personal](https://trevorpiltch.com) <br />
-[Wheels](https://wheels.trevorpiltch.com)
-
-
-##### School
-C-compiler - Java based compiler for the c language from [COMP520: Compiler Design](https://coursecatalogue.mcgill.ca/courses/comp-520/) <br />
-[CoolSupplies](https://github.com/F2024-ECSE223/ecse223-group-project-p13) (⭐️ Best project in [ECSE223: Model Based programming](https://coursecatalogue.mcgill.ca/courses/ecse-223/)) <br />
-
 #### Projects
+Flight Computer Software Lead - [McGill Rocket Team](https://mcgillrocketteam.com/) (⭐️ Won 3rd place at Launch Canada 2025) <br />
+[Personal website](https://trevorpiltch.com) <br />
+[Wheels website](https://wheels.trevorpiltch.com) <br />
 [Grover's Quantum Search Algorithm](https://github.com/trevorpiltch/Grovers-Algorithm) <br />
 [OmniSync: sync tasks to omnifocus](https://github.com/trevorpiltch/omnifocus-sync)<br/>
 [PomoBit: Pomodoro timer for the Microbit:V2](https://github.com/trevorpiltch/Pomo-Bit) <br/>
 [Rust template for Microbit v2](https://github.com/trevorpiltch/embedded_template) <br />
+
+##### School
+C-compiler - Java based compiler for the c language from [COMP520: Compiler Design](https://coursecatalogue.mcgill.ca/courses/comp-520/) <br />
+[CoolSupplies](https://github.com/F2024-ECSE223/ecse223-group-project-p13) (⭐️ Best project in [ECSE223: Model Based programming](https://coursecatalogue.mcgill.ca/courses/ecse-223/)) <br />
